@@ -1,0 +1,35 @@
+git branch  查看分支;
+git branch 分支名  创建了一条分支;
+git branch -d 分支名 删除分支;
+
+切换分支;
+
+git chekout 分支名;
+
+merge 分支合并;
+ 
+merge branch 把名为branch 的分支合并到当前分支上;
+
+// 一个项目从无到有 需要用到指令 ;
+
+git clone 路径;
+
+// 远程仓库 => 本地仓库;
+
+git pull 指令;
+
+// 远程仓库 => 本地工作区;
+
+
+makir 文件夹名    创建一个文件夹
+rm -rf  文件名     删除文件    
+tab提示
+touch 文件名  创建一个文件
+clear  清屏
+cd 文件夹路径/ 进入对应文件
+cd ..  回退一级文件
+vim  文件名
+i   进入插入模式
+esc  + ：wq  保存并退出
+ctrl + c + c; 强制终止程序
+ls 查看当前目录下所有文件的指令
